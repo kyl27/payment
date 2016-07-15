@@ -27,3 +27,9 @@
 *.exe
 *.out
 *.app
+server
+
+#Misc
+*.dSYM/
+*.tar.gz
+
