@@ -28,6 +28,7 @@
 *.out
 *.app
 server
+client
 
 #Misc
 *.dSYM/
